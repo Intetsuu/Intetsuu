@@ -1,18 +1,8 @@
 <div align="center">
 <img src="https://s2.ezgif.com/tmp/ezgif-2-b729a1d849.gif" align="center" style="width: 100%" />
 </div>  
-<br/>    
-
-- **Frontend developer 🕶️**  
-  
-
-<br/>  
-
 
 ## My Skill Set  
-
-
-
 
 ### Frontend  
 <div align="center">  
