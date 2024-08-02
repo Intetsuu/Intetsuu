@@ -59,4 +59,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Intetsu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
+<div align="center">
+<img src="https://media1.tenor.com/m/qMH5o_XizbcAAAAd/but-here%27s-the-coder.gif" />
+</div>  
