@@ -1,5 +1,6 @@
 <div align="center">
 <img src=https://tenor.com/ru/view/jojo-gif-13915028702639475082" align="center" style="width: 100%" />
+  <div class="tenor-gif-embed" data-postid="13915028702639475082" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/jojo-gif-13915028702639475082">Jojo GIF</a>from <a href="https://tenor.com/search/jojo-gifs">Jojo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>  
 
 ## My Skill Set  
