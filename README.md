@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://s2.ezgif.com/tmp/ezgif-2-b729a1d849.gif" align="center" style="width: 100%" />
+<img src=https://tenor.com/ru/view/jojo-gif-13915028702639475082" align="center" style="width: 100%" />
 </div>  
 
 ## My Skill Set  
