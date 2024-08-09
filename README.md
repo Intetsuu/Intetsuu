@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tenor.com/ru/view/jojo-gif-13915028702639475082" align="center" style="width: 100%" />
+<img src="https://media1.tenor.com/m/wRwc4UwwyYoAAAAd/jojo.gif" align="center" style="width: 100%" />
 
 </div>  
 
